@@ -6,7 +6,7 @@
 
 Overtopping information from  the Bay Conservation and Development Commission for the San Rafael under a 12" sea-level rise scenario is included and joined with parcel information.
 
-Parcel analysis code is included in this repository. To run this code, please download the entire folder titled *SanRafaelCanalParcels* containing the datasets. Within the R Code are pathway shortcuts that require the R markdown and datasets to be in the same folder.
+Parcel analysis code is included in this repository. To run this code, please download the entire folder titled *SanRafaelCanalParcels* containing the datasets. Within the R Code are pathway shortcuts that require the R markdown and datasets to be in the same folder. Canal_District_Parcels2023_Final.csv is the parcel data used for the analysis that just includes the Canal District (or all parcels east of US101). Canal_District_Parcels2023.csv and Canal_District_Parcels2023.xlsx include all of the parcels flooded within the 1' sea-level rise scenario, some of which fall outside of the bounds of the Canal District. 
 
 .jpeg files are maps of the Canal District showing flood inundation, saltwater wedge footprint, and building characteristics.
 
